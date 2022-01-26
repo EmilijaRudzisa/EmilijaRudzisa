@@ -28,6 +28,7 @@ async function loadIntoTable(url, table) {
 
   tableBody.appendChild(rowElement);
  }
+
 }
 
-loadIntoTable("./dati.json", document.querySelector("table"))
+loadIntoTable("./dati2.json", document.querySelector("table"));
