@@ -5,6 +5,8 @@
   "Autors",
   "Valoda"
 ],
+// kas būs tabulas galva un ka rindas informacija sadalīta
+// ar ko būs aizpiltīta tabulas kolonas 
 "rows" : [
   [
     1,
